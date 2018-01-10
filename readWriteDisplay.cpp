@@ -1,21 +1,4 @@
-/*
-Copyright 2017 BIG VISION LLC ALL RIGHTS RESERVED
-
-This code is made available to the students of 
-the online course titled "OpenCV for Beginners" 
-by Satya Mallick for personal non-commercial use. 
-
-Sharing this code is strictly prohibited without written
-permission from Big Vision LLC. 
-
-For licensing and other inquiries, please email 
-spmallick@bigvisionllc.com 
-*/
-
-#include <opencv2/core.hpp>
-#include <opencv2/imgproc.hpp>
-#include <opencv2/imgcodecs.hpp>
-#include <opencv2/highgui.hpp>
+#include <opencv2/opencv.hpp>
 #include <iostream>
 
 using cv::imread;

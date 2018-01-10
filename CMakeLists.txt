@@ -14,3 +14,6 @@ MACRO(add_example name)
 ENDMACRO()
 
 add_example(readWriteDisplay)
+add_example(rotate)
+add_example(cropAndResize)
+add_example(conversion)
